@@ -36,7 +36,7 @@ public class TestGreeter {
   }
 
   @Test
-  public void dummyTest() {
+  public void dummyTestForPollSCMTrigger() {
     assertTrue(true);
   }
 
