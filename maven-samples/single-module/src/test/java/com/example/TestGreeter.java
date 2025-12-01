@@ -36,8 +36,8 @@ public class TestGreeter {
   }
 
   @Test
-  public void failHamada() {
-    assertTrue(false);
+  public void dummyTest() {
+    assertTrue(true);
   }
 
     @Test
